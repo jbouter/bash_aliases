@@ -4,8 +4,8 @@
 # Git aliases
 alias gco='git checkout'
 alias gcm='git commit -s'
-alias gpo='git push -u origin HEAD'
-alias gam='git commit -a --amend'
+alias gpu='git push -u origin HEAD'
+alias gam='git commit -a --amend --no-edit'
 alias glo='git log'
 
 
